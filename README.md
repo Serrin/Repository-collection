@@ -1,4 +1,5 @@
-# Repository-collection
+
+# Github Repositories
 
 ## Celestra - the main JS-TS library
 
@@ -36,8 +37,8 @@
 
 - [CSS-Minifier](https://github.com/Serrin/CSS-Minifier) - A standalone CSS Minifier webapp.
 - [imgLightbox ](https://github.com/Serrin/imgLightbox)- Just another simple image lightbox without dependecies.
-- [Ohm-s-Law-Calculator](https://github.com/Serrin/Ohm-s-Law-Calculator)
-- [Viewport - A small viewport webapp.](https://github.com/Serrin/Viewport)
+- [Ohm-s-Law-Calculator](https://github.com/Serrin/Ohm-s-Law-Calculator) - A free Ohm's Law Calculator webapp.
+- [Viewport](https://github.com/Serrin/Viewport) - A small viewport webapp.
 - [Bricks](https://github.com/Serrin/Bricks) - A small html game.
 
 ## jQuery plugin
