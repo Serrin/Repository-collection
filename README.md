@@ -15,7 +15,7 @@
 
 - [Zephyr](https://github.com/Serrin/Zephyr) - Collection of the ECMAScript abstract methods.
 - [Defiant](https://github.com/Serrin/Defiant) - A small utility module for working with tuples (frozen arrays) and records (frozen objects) in JavaScript / TypeScript.
-- [Pyxis.js](https://github.com/Serrin/Pyxis.js) - A TypeScript and JavaScript module implementing fundamental and extended logical operations based on JavaScript truthiness.
+- [Pyxis](https://github.com/Serrin/Pyxis) - A TypeScript and JavaScript module implementing fundamental and extended logical operations based on JavaScript truthiness.
 - [typeOf.js](https://github.com/Serrin/typeOf.js) - A typescript/javascript microlibrary with only one function: extended typeof operator with "null" type as string.
 - [isObject.js](https://github.com/Serrin/isObject.js) - A typescript/javascript microlibrary with only one function: Checks if a value is an object.
 - [http-status-codes](https://github.com/Serrin/http-status-codes) - HTTP status codes in a JS module
