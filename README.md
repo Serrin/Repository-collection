@@ -26,7 +26,7 @@
 - [min.js](https://github.com/Serrin/min.js) - This is my little JS minifier for Node.js
 - [saveurl.js](https://github.com/Serrin/saveurl.js) - _(private repository)_
 - [eol.js](https://github.com/Serrin/eol.js) - _(private repository)_
-- [nodefs.ts](ttps://github.com/Serrin/nodefs.ts) - _(private repository)_https://github.com/Serrin/nodefs.ts
+- [nodefs.ts](https://github.com/Serrin/nodefs.ts) - _(private repository)_
 
 ## CSS libraries
 
