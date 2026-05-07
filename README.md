@@ -44,5 +44,5 @@
 
 ## Other
 
-- [Cheatsheets](https://github.com/Serrin/Cheatsheets)) - Cheatsheets
+- [Cheatsheets](https://github.com/Serrin/Cheatsheets) - Cheatsheets
 - [jQuery-Quick](https://github.com/Serrin/jQuery-Quick) - jQuery quick hide() and show() alternatives. _(obsolete)_
