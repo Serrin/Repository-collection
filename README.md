@@ -42,6 +42,7 @@
 - [Viewport](https://github.com/Serrin/Viewport) - A small viewport webapp.
 - [Bricks](https://github.com/Serrin/Bricks) - A small html game.
 
-## jQuery plugin
+## Other
 
+- [Cheatsheets](https://github.com/Serrin/Cheatsheets)) - Cheatsheets
 - [jQuery-Quick](https://github.com/Serrin/jQuery-Quick) - jQuery quick hide() and show() alternatives. _(obsolete)_
