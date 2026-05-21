@@ -19,6 +19,7 @@
 - [Pyxis](https://github.com/Serrin/Pyxis) - A TypeScript and JavaScript module implementing fundamental and extended logical operations based on JavaScript truthiness.
 - [typeOf.js](https://github.com/Serrin/typeOf.js) - A typescript/javascript microlibrary with only one function: extended typeof operator with "null" type as string.
 - [isObject.js](https://github.com/Serrin/isObject.js) - A typescript/javascript microlibrary with only one function: Checks if a value is an object.
+- [constructorOf.js](https://github.com/Serrin/constructorOf.js) - A typescript/javascript microlibrary with only one function: The constructorOf function returns the constructor property of value, using optional chaining to avoid throwing if value is `null` or `undefined`. 
 - [http-status-codes](https://github.com/Serrin/http-status-codes) - HTTP status codes in a JS module
 - [microlibraries](https://github.com/Serrin/microlibraries) - _(private repository)_
 
