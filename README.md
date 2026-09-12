@@ -1,11 +1,6 @@
 
 # Github Repositories
 
-## Celestra - the main JS-TS library
-
-- [Celestra](https://github.com/Serrin/Celestra) - A helper JavaScript library with useful functions and polyfills and zero dependencies. Supported in browsers and Node.js.
-- [Celestra-beta](https://github.com/Serrin/Celestra-beta) - Beta versions of the Celestra JS library.
-
 ## Assert
 
 - [assert.js](https://github.com/Serrin/assert.js) - A modern, zero-dependency assertion library for Node.js, Deno and browser (ESM) environments.
@@ -14,6 +9,8 @@
 
 ## JS-TS libraries
 
+- [Celestra](https://github.com/Serrin/Celestra) - A helper JavaScript library with useful functions and polyfills and zero dependencies. Supported in browsers and Node.js.
+- [Celestra-beta](https://github.com/Serrin/Celestra-beta) - Beta versions of the Celestra JS library.
 - [Zephyr](https://github.com/Serrin/Zephyr) - Collection of the ECMAScript abstract methods.
 - [Defiant](https://github.com/Serrin/Defiant) - A small utility module for working with tuples (frozen arrays) and records (frozen objects) in JavaScript / TypeScript.
 - [Pyxis](https://github.com/Serrin/Pyxis) - A TypeScript and JavaScript module implementing fundamental and extended logical operations based on JavaScript truthiness.
