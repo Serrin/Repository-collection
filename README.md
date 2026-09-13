@@ -1,14 +1,11 @@
 
 # Github Repositories
 
-## Assert
+## JS-TS libraries
 
 - [assert.js](https://github.com/Serrin/assert.js) - A modern, zero-dependency assertion library for Node.js, Deno and browser (ESM) environments.
 - [assert.js-beta](https://github.com/Serrin/assert.js-beta) - Beta versions of the assert.js library.
 - [assertfn.js](https://github.com/Serrin/assertfn.js) - A minimal assert function.
-
-## JS-TS libraries
-
 - [Celestra](https://github.com/Serrin/Celestra) - A helper JavaScript library with useful functions and polyfills and zero dependencies. Supported in browsers and Node.js.
 - [Celestra-beta](https://github.com/Serrin/Celestra-beta) - Beta versions of the Celestra JS library.
 - [Zephyr](https://github.com/Serrin/Zephyr) - Collection of the ECMAScript abstract methods.
